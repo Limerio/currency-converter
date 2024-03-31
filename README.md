@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this project are to have a cli to convert currency (like the name 👀)
+The goal of this project is to have a cli to convert currency (like the name 👀)
 *the creation is only for my personal knowledge to understand rust and there ecosystem*
 
 ## Tasks
